@@ -18,7 +18,10 @@ Components
 - Artifact Registry → stores Docker image for n8n
 - Secret Manager → holds sensitive credentials
 - Gemini API → LLM powering the agent
-- n8n Workflows → chat agent logic  
+- n8n Workflows → chat agent logic
+
+<img width="975" height="473" alt="image" src="https://github.com/user-attachments/assets/efae9b52-a1a6-4ed7-a21a-ebae051c7238" />
+
 
 
 🚀 Deploy to Cloud Run
