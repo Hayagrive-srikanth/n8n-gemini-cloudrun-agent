@@ -20,8 +20,6 @@ Components
 - Gemini API → LLM powering the agent
 - n8n Workflows → chat agent logic  
 
-![Architecture](https://github.com/Hayagrive-srikanth/n8n-gemini-cloudrun-agent/issues/1)
-
 
 🚀 Deploy to Cloud Run
 1. Build & Push Image
