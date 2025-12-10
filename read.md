@@ -49,4 +49,21 @@ Nodes Used
 Chat Trigger → receives messages
 Google Gemini Chat Model → generates responses
 AI Agent Node → orchestrates the logic
-Chat Message → replies to user
+Chat Message → replies to user 
+
+Screen Shots:
+1. Cloud SQL setup
+<img width="2038" height="1117" alt="Database" src="https://github.com/user-attachments/assets/e3b8942a-dec2-418f-a314-235783fb0c07" />
+
+2. Artifact Registry build
+<img width="2043" height="996" alt="Artifiact" src="https://github.com/user-attachments/assets/50c3b3bf-7604-46d8-9cd2-7154e707ed9c" />
+
+3. Cloud Run deployment
+<img width="2042" height="1161" alt="Cloud_run" src="https://github.com/user-attachments/assets/bcf9230a-abf2-461a-8070-4d8c02f6bf8a" />
+
+4. n8n workflow with Gemini integrated
+<img width="2038" height="920" alt="n8n" src="https://github.com/user-attachments/assets/45f95bad-4732-4ea2-abae-cc700d22e310" />
+
+
+
+
